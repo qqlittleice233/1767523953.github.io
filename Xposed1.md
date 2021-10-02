@@ -43,3 +43,8 @@
 ##### Content In xposed_init (should be your entry's class path)
 ![image](https://user-images.githubusercontent.com/60041789/135720582-014b1cb5-902a-4685-91aa-189d0637dc6f.png)
 
+#### Finally, Build and Install and Active
+![Screenshot_2021-10-02-22-26-22-035_org lsposed ma](https://user-images.githubusercontent.com/60041789/135720776-384da0b8-6208-48a4-b0c0-b84438cbf4dd.jpg)
+##### Result:
+![Screenshot_2021-10-02-22-26-41-053_hk qqlittleice](https://user-images.githubusercontent.com/60041789/135720805-dd769aaa-c77e-4592-8352-0711df620e0d.jpg)
+
