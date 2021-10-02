@@ -12,10 +12,15 @@
 ![image](https://user-images.githubusercontent.com/60041789/135718692-020303b5-1e05-4551-86f1-7ca8dc17faa2.png)
 ![image](https://user-images.githubusercontent.com/60041789/135718728-ee228d69-e20b-452f-87d8-3f9fbaae8772.png)
 
-#### Declare this is a xposed module
+#### Declare this is a xposed module (Only for Lsposed)
 ![image](https://user-images.githubusercontent.com/60041789/135718821-31c6f9f6-c512-486a-bdec-8a88f77e149a.png)
 ##### Before: 
 ![image](https://user-images.githubusercontent.com/60041789/135718995-a722e7ae-75ec-4cff-97b3-f0480b7a5ec7.png)
 ##### After: 
 ![image](https://user-images.githubusercontent.com/60041789/135718975-02828677-4e7c-4e0c-9cc1-d146228517ec.png)
+
+#### Create MainHook.kt
+![image](https://user-images.githubusercontent.com/60041789/135719568-ecbfcad2-e46c-40d7-a8cb-83738337ba1f.png)
+##### Implement IXposedHookLoadPackage and Override handleLoadPackage
+![image](https://user-images.githubusercontent.com/60041789/135719651-e52746f3-0e8c-4ff8-8347-a4a810559c8a.png)
 
