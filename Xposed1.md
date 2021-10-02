@@ -26,7 +26,7 @@
 
 ### I make a test app that you can hook it easier - [download](https://github.com/1767523953/1767523953.github.io/raw/master/TestApp1.apk)
 ![Screenshot_2021-10-02-22-11-23-865_hk qqlittleice](https://user-images.githubusercontent.com/60041789/135720068-3b54e4ab-59ee-4800-b39b-2bc5c1248f2b.jpg)
-### We will hook the text in the centre
+### We will hook the text which in the centre
 
 #### Check the smali
 ![image](https://user-images.githubusercontent.com/60041789/135720154-29f1698c-5fb6-4de3-822e-7774fe92fa9f.png)
