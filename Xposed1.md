@@ -24,3 +24,22 @@
 ##### Implement IXposedHookLoadPackage and Override handleLoadPackage
 ![image](https://user-images.githubusercontent.com/60041789/135719651-e52746f3-0e8c-4ff8-8347-a4a810559c8a.png)
 
+### I make a test app that you can hook it easier - [download](https://github.com/1767523953/1767523953.github.io/raw/master/TestApp1.apk)
+![Screenshot_2021-10-02-22-11-23-865_hk qqlittleice](https://user-images.githubusercontent.com/60041789/135720068-3b54e4ab-59ee-4800-b39b-2bc5c1248f2b.jpg)
+### We will hook the text in the centre
+
+#### Check the smali
+![image](https://user-images.githubusercontent.com/60041789/135720154-29f1698c-5fb6-4de3-822e-7774fe92fa9f.png)
+##### We only need to hook this method's result
+
+#### Write Code for Hook
+![image](https://user-images.githubusercontent.com/60041789/135720457-357f8995-a657-4d72-8e34-065ddef25b56.png)
+
+#### Declare The Entry for Lsposed
+##### Create Assets Folder
+![image](https://user-images.githubusercontent.com/60041789/135720531-c73fa4ea-702b-4f78-9442-8576d2714fef.png)
+##### Create xposed_init File
+![image](https://user-images.githubusercontent.com/60041789/135720564-f74e2957-486f-421d-aecf-5d1b30ce8329.png)
+##### Content In xposed_init (should be your entry's class path)
+![image](https://user-images.githubusercontent.com/60041789/135720582-014b1cb5-902a-4685-91aa-189d0637dc6f.png)
+
